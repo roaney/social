@@ -38,8 +38,8 @@ main {
 }
 #redes {
     position: absolute;
-    top: 50px;
-    left: 1300px;
+    top: 10%;
+    right: 1%;
 }
 img {
     width: 50px;
