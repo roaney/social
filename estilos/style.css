@@ -49,6 +49,9 @@ img {
     margin-bottom: 10px;
 }
 img:hover {
-    border: 2px solid white;
+    border: 2px solid rgba(255, 255, 255, 0.5);
     box-sizing: border-box;
+    transform: translate(-5%, -5%);
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.5);
+    transition-duration: 0.5s;
 }
